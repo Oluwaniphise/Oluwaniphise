@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwaniphise" alt="oluwaniphise" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oluwanifiseodu" target="blank"><img src="https://img.shields.io/twitter/follow/oluwanifiseodu?logo=twitter&style=for-the-badge" alt="oluwanifiseodu" /></a> </p>
-<img align="right" width="300px" height="300px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="coding gif" />
+<img align="right" width="200px" height="200px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="coding gif" />
 
 
 - 🌱 I’m currently learning **Reactjs**
