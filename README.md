@@ -9,7 +9,7 @@
 <img align="right" width="200px" height="200px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="coding gif" />
 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m a front end developer with proficiency in **Reactjs**
 
 - 💬 Ask me about **Reactjs, Django, WordPress**
 
